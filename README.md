@@ -5,3 +5,5 @@
 - 📫 How to reach me i have telegram as official use case messaging app: @openai69 
 - ⚡ And i listen to people before deciding....
 
+![Master oogway](https://github.com/kritakHERE/kritakHERE/blob/main/images/opp.gifv)
+![Fight](https://github.com/kritakHERE/kritakHERE/blob/main/images/oppp.gifv)
