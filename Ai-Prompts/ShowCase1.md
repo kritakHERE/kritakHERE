@@ -90,7 +90,7 @@ It **is** technically possible to create a highly customizable, modular learning
 
 By combining modular front-end architecture, low-code/no-code AI platforms, and generative code assistants, you can indeed create a “lego-style” learning app. The key is to **scope narrowly**, **leverage open-source**, and **iterate**—so that each additional module compounds your app’s customization power without bankrupting your resources.
 
-[Next Section]{[Ai-Prompts/ShowCase2.md](https://github.com/kritakHERE/kritakHERE/blob/main/Ai-Prompts/ShowCase2.md)}
+**Next Section:** [Ai-Prompts/ShowCase2.md](https://github.com/kritakHERE/kritakHERE/blob/main/Ai-Prompts/ShowCase2.md)
 
 
 [1]: https://www.linkedin.com/pulse/building-scalable-web-applications-microfrontend-case-bhattacharya-wwn5c?utm_source=chatgpt.com "Building Scalable Web Applications with Microfrontend Architecture"
