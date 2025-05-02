@@ -1,14 +1,14 @@
 # Prompt 1:
-__Could you tell me if an app can be soo customizable that the whole app be changed or have a combination of code chunks to present to the user as per need. Here is a more specific description:
+Could you tell me if an app can be soo customizable that the whole app be changed or have a combination of code chunks to present to the user as per need. Here is a more specific description:
 
 A learning app that will surely use Ai technology like chatbots and LLMs, which will be used to create a customizable app. Like there will be features as per the need of the user description. Like how in real world we can have various combinations of clothings with limited cloths, like that, can we have a customizable app. Rather then a custom course or learning style only app with same ui and ux. We can actually take user description, ask some questions and find suitable combinations.
 
 It is new to me, don’t know if it happened before, if it is possible, and i have limited programming knowledge. I may have to outsource but lack money as well.
 
-How do i actually create huge value. Like people focussing on one problem and finding the best suitable solution for it. They spend like months and even few years to building it. Or maybe few days if they have resources and organized knowledge like mark zukarburg. But you get the point. Dont say it is a great idea, its just an idea. Dont hype me up for no proper reason. Need to be critical and reasonable, also economical, and engineering!__
+How do i actually create huge value. Like people focussing on one problem and finding the best suitable solution for it. They spend like months and even few years to building it. Or maybe few days if they have resources and organized knowledge like mark zukarburg. But you get the point. Dont say it is a great idea, its just an idea. Dont hype me up for no proper reason. Need to be critical and reasonable, also economical, and engineering!
 
 # Response
-__**Explorando aplicaciones modulares de IA**
+**Explorando aplicaciones modulares de IA**
 
 El usuario pregunta sobre aplicaciones modulares personalizables, basadas en IA. Es importante proporcionar una respuesta detallada y respaldada, así que realizaré una búsqueda sobre plataformas de desarrollo modular, bajo código y con IA. Buscaré temas como plataformas modulares, desarrollo basado en componentes, microfrontends y backend de IA. No incluiré imágenes, solo texto. Recopilaré información útil para ayudar a construir una respuesta sólida y bien fundamentada con citas confiables.
 
