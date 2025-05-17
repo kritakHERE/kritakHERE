@@ -7,6 +7,7 @@
 
 **My chatgpt Prompts and responses:**
 [ShowCase1](https://github.com/kritakHERE/kritakHERE/blob/main/Ai-Prompts/ShowCase1.md)
+[Explore discrete structure outcomes](college_notes/Discrete_structure.md)
 
 ![Master oogway](https://github.com/kritakHERE/kritakHERE/blob/main/images/opp.gifv)
 ![Fight](https://github.com/kritakHERE/kritakHERE/blob/main/images/oppp.gifv)
