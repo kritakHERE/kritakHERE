@@ -1,1 +1,2 @@
-# this section will contain codes of data structure and algorithms
+# This section will contain codes of data structure and algorithms in C++
+your are free to add your own........
